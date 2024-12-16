@@ -1,0 +1,7 @@
+{
+  "data": {
+    "London": "Temperature: 10.66°C\nHumidity: 78%\nWind Speed: 3.6 m/s\nDescription: broken clouds",
+    "New Delhi": "Temperature: 11.09°C\nHumidity: 82%\nWind Speed: 0 m/s\nDescription: mist",
+    "Moscow": "Temperature: -1.36°C\nHumidity: 70%\nWind Speed: 5.16 m/s\nDescription: light snow"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "Serpuhov": {
+      "value": "Weather data for Serpuhov",
+      "timestamp": {
+        "secs_since_epoch": 1734260291,
+        "nanos_since_epoch": 847431823
+      }
+    },
+    "Moscow": {
+      "value": "Weather data for Moscow",
+      "timestamp": {
+        "secs_since_epoch": 1734260270,
+        "nanos_since_epoch": 855033977
+      }
+    }
+  },
+  "expiration": {
+    "secs": 3600,
+    "nanos": 0
+  }
+}
